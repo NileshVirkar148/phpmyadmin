@@ -1,0 +1,24 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.27:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "gamma123"
+	},
+	"repositories": [{
+			"repository": {
+				"uid": "c7acbc74a2f823cbf5bb8820398a6c59",
+				"projectName": "1320",
+				"sources": {
+					"baseDir": "$WORKSPACE"
+				}
+			},
+			"dataDir": "C:\\ProgramData\\Gamma\\gamma_data",
+			"modules": {
+				"codeissues": [{
+						"name": "pylint"
+					}
+				]
+			}
+		}
+	]
+}
